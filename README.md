@@ -1,2 +1,2 @@
-# info2180-lab1
-First Web development lab
+INFO2180 Lab 1 
+This is Lab 1 for Teriq Strachan
